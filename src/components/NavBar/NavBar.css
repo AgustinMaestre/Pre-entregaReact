@@ -1,0 +1,8 @@
+header {
+    background: linear-gradient(to bottom right, rgb(60, 60, 163), pink);
+}
+
+li {
+    cursor: pointer;
+    padding: 2rem;
+}
